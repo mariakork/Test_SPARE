@@ -3,10 +3,10 @@ project:
   output-dir: _book
   
 book:
-  title: "This is the title"
-  author: "Kari Nordmann"
-  description: | 
-    Add some description here if you like.
+  title: "Bynatur Atlas"
+  author: "Maria Korkou"
+  description: |
+   Space for resilience (SPARE) - how do we plan for stormwater, biodiversity and recreation to increase urban resilience?
   repo-url: https://github.com/NINAnor/NINA-ebook-template
   repo-branch: main
   repo-actions: [edit]
